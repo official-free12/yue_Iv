@@ -1,0 +1,6 @@
+# 越南股票模拟操作软件
+
+郑重提醒：<br>亲爱的买家们，由于近期有大量小白用户来咨询源码事项，现在统一回复，介意的勿拍，勿拍！<br>1、如果没有拍安装服务的，我们不提供安装，请购买源码时选择好，另外拍了安装服务的，我们只帮你安装一次，不另外提供任何修改和其它服务，请知悉，介意者勿拍！<br>2、关于演示站、看下里面的功能或者是大概风格<br>3、关于源码使用修改问题，求小白放过，你说连帝国cms都没用过、织梦都不知道是什么，服务器和虚拟主机也分不清，伪静态不知道是什么，php版本都搞不清的人，你跑过来拍个源码，然后就开始让我们帮您改下网站，问那个怎么用，这个怎么改，我们卖的只是源码，其它技术方面问题一概不回复！安装后如果有风险提示请自行认证，如果需要二次开发或者技术指导的，请另外追加购买相应的技术服务，谢谢！<br>再次强调声明，源码是亲测可用的，内附安装说明，只要不是小白都是能自己搞定的，但是需要什么样的服务就支付相应的费用，不想花钱又想要服务的，请远离我们！！<br>此源码是由站长亲自开发的程序，其它的就不说了！<br>适用范围： 理财版,运行环境：PHP、mysql<br>全套源码： 模拟股票理财+手机+APP（需要自己去第三方生成），可二次开发，<br>其他说明：本系统仅用于技术交流，专业知识模拟培训。如用于商业用途，不对外售卖。购买前，请联系客服所<br>功能说明: 模拟市场操作，让股民们减少风险<br>example.com<br>example.com<br>详情请联系客服看演示 QQ：466656024<br>前端:http://example.com.example.com/#/index; 0987654322 a123456<br>后端:http://example.com.example.com/uiNJU176;admin a123456<br>重要的事情说三遍：<br>本软件为模拟操作软件，不适用于商业，请知晓，如有后果自负<br>本软件为模拟操作软件，不适用于商业，请知晓，如有后果自负<br>本软件为模拟操作软件，不适用于商业，请知晓，如有后果自负<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/9mD5h" style="color: red;">https://mega-file.org/9mD5h</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
